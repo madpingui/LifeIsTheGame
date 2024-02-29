@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfe9d6357f5e27e48b31c5a00d41bbde, type: 3}
+  m_Name: Parabolic
+  m_EditorClassIdentifier: 
+  weaponName: Parabolium
+  fireRate: 10
+  bulletSpeed: 30
+  weaponMesh: {fileID: 4300004, guid: e16953ee70c66b64aacb5cfc435bfe21, type: 3}
+  weaponMaterial: {fileID: 2100000, guid: 56200b0074d143e4ba52de1d3bbc9890, type: 2}
+  bulletPrefab: {fileID: 3088150894351605065, guid: 3fa0b6e0374991842a9f3bb893ef1eee, type: 3}
